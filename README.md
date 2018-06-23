@@ -10,4 +10,4 @@
 ![image](https://github.com/zhangjing9898/recruitZepto/blob/master/screen-shot/6.png)
 ![image](https://github.com/zhangjing9898/recruitZepto/blob/master/screen-shot/7.png)
 ![image](https://github.com/zhangjing9898/recruitZepto/blob/master/screen-shot/8.png)
-![image](https://github.com/zhangjing9898/recruitZepto/blob/master/screen-shot/9.png)
+
